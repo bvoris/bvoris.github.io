@@ -4,6 +4,5 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+Brad started his career in Information Technology and Cyber Security in 1999. He has numerous certifications including his CISSP, CISM, CCSK, NSE-1, NSE-2, MCP, and Network+ among many others. Over his career he has worked with enterprise organizations like United Airlines and Texas Children’s Hospital. Brad is a U.S. Army Veteran.
+
