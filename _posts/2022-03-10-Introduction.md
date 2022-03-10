@@ -253,6 +253,7 @@ At Vroom I built the Information Security Program, designed and deployed numerou
  ## Shaw Systems 2020
  Shaw Systems - Financial SAAS
  
+ My role at Shaw Systems had me manage day to day security operations, as well as review of IT operations. I worked with the business to try minimize risk and provide value to the business. I worked with Alert Logic to deploy logging and monitoring solutions. I also provided risk assessments and answered third party audits.
  
 • Security Engineering & Architecture
 • Information, Cyber Security
