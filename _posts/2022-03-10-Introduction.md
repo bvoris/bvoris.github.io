@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction - Brad Voris
+title: Brad Voris
 categories: [content, introduction]
 ---
 
@@ -18,19 +18,34 @@ I started working for J&C in September of 1999. First started out working on a m
 ## Lab Corp 2007
 Lab Corp -  operates one of the largest clinical laboratory networks in the world, with a United States network of 36 primary laboratories.
 
-I only stayed at Labcorp for a couple of weeks. This role had me driving 60+ miles a day around Houston (usually 2-4 sites a day) to resolve printer and computer issues for Lab Corp clients (hospitals, labs, clinics, etc.) There was only one available vehicle, and most of the time it was checked out so I had to drive my own vehicle. I was not reimbursed for fuel. I was originally told that there would be more capability to learn and eventually shift to computer engineer but that wasn't the reality. I don't have this role on my resume or LinkedIn.
+I don't have this role on my resume or LinkedIn.
 
 ## Metro Networks 2007
 Metro Networks - broadcasting outsourcing company based in Houston, Texas
 
-I stayed at Metro Networks for a few months. This was a network engineering role where I spent the majority of my time configuring Cisco switches, Cisco routers and some Compaq & HP servers. There was an ATM Frame Relay that was used as a back up and we had various internet lines per location that I managed. There were well over 100 locations across the US which I managed internet connectivity. I spent many early mornings, late nights responding to outages and troubleshooting issues.  I don't have this role on my resume or LinkedIn.
+I don't have this role on my resume or LinkedIn.
 
 ## Solarent 2007
 Solarent - was a managed service provider
 
-After moving from Metro Networks I started working as a support engineer for Solarent. I spent my days driving to 2 - 3 clients a day providing technical support on servers, switches and desktops. I provided support for churches, charities, not for profit and non profit organizations.  I don't have this role on my resume or LinkedIn.
+I don't have this role on my resume or LinkedIn.
 
 ## DePelchin Children's Center 2007 - 2009
 DePelchin Children's Center - nonprofit provider of children's mental health, prevention and early intervention, and child welfare services
 
 I took a role with the assistance of Solarent at DePelchin Children's Center. This role was an IT Manager role where I managed the help desk, call center and data center for DePelchin. We had 2 senior technicians, and 3 technicians in the call center. I had a great team, who were really efficient and capable. While there we installed new firewalls, new file servers and database servers. I deployed an IDS and a honeypot for greater network visibility. This was a really good role and I learned a lot about managing people and resources.
+
+## Serimax 2009 - 2010
+Serimax - was an international pipeline welding company
+
+I took an IT Manager role for the North and South American regions for Serimax. After taking this role the oil and gas industry was hit with a severe downtown which negatively impacted my role. I was the sole support person for North and South America. This meant supporting 500+ resources across numerous counteries.
+
+## Internet Medical Clinics 2010
+Internet Medical Clinics - Chain of medical clinics
+
+I don't have this role on my resume or LinkedIn.
+
+## Cherry Demolition 2010 - 2014
+Cherry Demolition - demolition, aggregate, and crushed concrete manufacturer
+
+
