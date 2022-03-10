@@ -54,3 +54,14 @@ I took a role as a system engineer / IT manager for Cherry Demolition. Cherry wa
 Ft. Bend ISD - An independent school district in Sugar Land Texas
 
 I took a role with FT Bend ISD as a Senior Systems Engineer II. In this role I managed multiple VMware servers, SANs, HP Blade and Chassis, Active Directory, DNS, DHCP, DFS, IIS, and helped manage their MS Exchange 2003 environment. I helped design and deploy additional server clusters and storage. I helped to support and manage Windows Server 2000 - 2012 R2.
+
+
+## CVR Energy 2015
+CVR Energy - Oil refinig company
+
+I took a role at CVR Energy and completely revamped their infrastructure. I migrated their servers from Windows 2003 to 2012 R2. Deployed DNS, DHCP HA, DFS (massive replication between locations to act as data backup), IIS. I managed day to day operations of a huge Exchange 2010 cluster and MS Lync 2010. I also managed all SAN and servers within VMware and Hyper-V.
+
+## United Airlines 2015 - 2016
+United Airlines - US airline with over 85,000 employee's globally
+
+At United Airlines I documented and designed systems for aircraft, airports, and lounges. This included designing UIs for aircraft WiFi systems, PCI-DSS environments, SOX environments and IOT devices. I worked with other engineers and architects to design and deploy numerous systems world wide.
