@@ -29,4 +29,6 @@ Solarent - was a managed service provider
 After moving from Metro Networks I started working as a support engineer for Solarent. I spent my days driving to 2 - 3 clients a day providing technical support on servers, switches and desktops. I provided support for churches, charities, not for profit and non profit organizations.  I don't have this role on my resume or LinkedIn.
 
 ## DePelchin Children's Center 2007 - 2009(h2)
-DePelchin Children's Center - 
+DePelchin Children's Center - nonprofit provider of children's mental health, prevention and early intervention, and child welfare services
+
+I took a role with the assistance of Solarent at DePelchin Children's Center. This role was an IT Manager role where I managed the help desk, call center and data center for DePelchin. We had 2 senior technicians, and 3 technicians in the call center. I had a great team, who were really efficient and capable. While there we installed new firewalls, new file servers and database servers. I deployed an IDS and a honeypot for greater network visibility. This was a really good role and I learned a lot about managing people and resources.
