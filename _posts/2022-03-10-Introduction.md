@@ -33,7 +33,7 @@ I don't have this role on my resume or LinkedIn.
 ## DePelchin Children's Center 2007 - 2009
 DePelchin Children's Center - nonprofit provider of children's mental health, prevention and early intervention, and child welfare services
 
-I took a role with the assistance of Solarent at DePelchin Children's Center. This role was an IT Manager role where I managed the help desk, call center and data center for DePelchin. We had 2 senior technicians, and 3 technicians in the call center. I had a great team, who were really efficient and capable. While there we installed new firewalls, new file servers and database servers. I deployed an IDS and a honeypot for greater network visibility. This was a really good role and I learned a lot about managing people and resources.
+I took a role with the assistance of Solarent at DePelchin Children's Center. This role was an IT Manager role where I managed the help desk, call center and data center for DePelchin. We had 2 senior technicians, and 3 technicians in the call center. I had a great team, who were really efficient and capable. While there we installed new firewalls, new file servers and database servers. I deployed and configured all new Cisco switches. I deployed an IDS and a honeypot for greater network visibility. This was a really good role and I learned a lot about managing people and resources.
 
 ## Serimax 2009 - 2010
 Serimax - was an international pipeline welding company
@@ -48,4 +48,4 @@ I don't have this role on my resume or LinkedIn.
 ## Cherry Demolition 2010 - 2014
 Cherry Demolition - demolition, aggregate, and crushed concrete manufacturer
 
-
+I took a role as a system engineer / IT manager for Cherry Demolition. Cherry was on a growth boom and required a lot of work. Essentially a mom and pop shop using retail grade equipment and having chronic network failures and system failures. I rebuilt their entire network from cheap 8-16 port switches, to multiple 48 and 24 port switches with fiber at their headquarters and 48 port switches at their branch locations. I deployed Fortinet firewalls at all locations, a forti-analyzer and fortimanager at their HQ. I migrated their Windows 2003 SMB server to Windows 2008 R2 file servers and a Windows 2010 Exchange Server. Those servers were on an old Compaq Proliant 1600 series server, which I upgraded to a bunch of Dell rack mounted servers and a Dell SAN. I deployed about half the servers in Hyper-V for ease of management. I also installed a couple of brand new full Dell racks. I deployed Ubuntu and Nagios resource monitoring. I deployed numerous DVR's and IP cameras. I ran numerous projects for migrating phone systems from Iwatsu to Shoretel, MPLS migration, database migrations, department budgeting and vendor management.
