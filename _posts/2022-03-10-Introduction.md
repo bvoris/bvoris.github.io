@@ -64,4 +64,37 @@ I took a role at CVR Energy and completely revamped their infrastructure. I migr
 ## United Airlines 2015 - 2016
 United Airlines - US airline with over 85,000 employee's globally
 
-At United Airlines I documented and designed systems for aircraft, airports, and lounges. This included designing UIs for aircraft WiFi systems, PCI-DSS environments, SOX environments and IOT devices. I worked with other engineers and architects to design and deploy numerous systems world wide.
+At United Airlines I documented and designed systems for aircraft, airports, and lounges. This included designing UIs for aircraft WiFi systems, PCI-DSS environments, SOX environments and IOT devices. I worked with other engineers and architects to design and deploy numerous systems world wide. While working contract for UA, I took a week off unpaid to study for and pass the CISSP exam.
+
+## Tailored Brands 2016
+Tailored Brands - is a formal clothing designer and resale
+
+The role at Tailored Brands was short but provided a lot of hands on experience with security products.
+While at Tailored Brands I was messaged by a former co-worker about a security role that was opening up. I was offered the role and moved on from Tailored Brands.
+
+## Texas Direct Auto / Vroom 2016 - 2018
+TDA / Vroom - is an online car retailer
+
+At Vroom I built the Information Security Program, designed and deployed numerous security countermeasures. This included Palo Alto Firewalls, security governance frameworks, ADDS (DNS, DHCP, Group Policy, DFS), EDR solution and a SIEM. I maanged IT and Security personnel and routinely had meetings with legal, HR and senior management.
+
+ ## JP Morgan Chase 2018
+ JP Morgan Chase - US Based Bank
+ 
+ I don't have this role on my resume or LinkedIn.
+ 
+ ## CGG 2018 - 2019
+ CGG - Oil and Gas data processor
+ 
+ CGG role was a focus specifically on network & cloud security and some Information Security. I helped build their SIEM and managed the day to day support with their MSSP. I provided security engineering and architecture assessments to help align business strategy. I also deployed instances in AWS, Azure and GCP to help log and monitor their cloud environments.
+ 
+ ## Texas Children's Hospital 2019
+ Texas Children's Hospital - US Based Hospital System
+ 
+ I don't have this role on my resume or LinkedIn.
+ 
+ ## Shaw Systems 2020
+ Shaw Systems - Financial SAAS
+ 
+ ## Walmart eCommerce 2020 - Present
+ Walmart - 
+ 
