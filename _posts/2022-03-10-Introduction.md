@@ -219,15 +219,15 @@ At Vroom I built the Information Security Program, designed and deployed numerou
 • Penetration Testing
 • Application Security Testing OWASP
 
- ## JP Morgan Chase 2018
- JP Morgan Chase - US Based Bank
+## JP Morgan Chase 2018
+JP Morgan Chase - US Based Bank
  
- I don't have this role on my resume or LinkedIn.
+I don't have this role on my resume or LinkedIn.
  
- ## CGG 2018 - 2019
- CGG - Oil and Gas data processor
+## CGG 2018 - 2019
+CGG - Oil and Gas data processor
  
- CGG role was a focus specifically on network & cloud security and some Information Security. I helped build their SIEM and managed the day to day support with their MSSP. I provided security engineering and architecture assessments to help align business strategy. I also deployed instances in AWS, Azure and GCP to help log and monitor their cloud environments.
+CGG role was a focus specifically on network & cloud security and some Information Security. I helped build their SIEM and managed the day to day support with their MSSP. I provided security engineering and architecture assessments to help align business strategy. I also deployed instances in AWS, Azure and GCP to help log and monitor their cloud environments.
  
 • Security Engineering & Architecture
 • Cloud Security: AWS, Azure, GCP Google Cloud
@@ -245,15 +245,15 @@ At Vroom I built the Information Security Program, designed and deployed numerou
 •••• GuardDuty: Cloud platform security findings 
 •••• CloudWatch/CloudTrails: Management of account audits, metrics, and event workflows
  
- ## Texas Children's Hospital 2019
- Texas Children's Hospital - US Based Hospital System
+## Texas Children's Hospital 2019
+Texas Children's Hospital - US Based Hospital System
  
- I don't have this role on my resume or LinkedIn.
+I don't have this role on my resume or LinkedIn.
  
- ## Shaw Systems 2020
- Shaw Systems - Financial SAAS
+## Shaw Systems 2020
+Shaw Systems - Financial SAAS
  
- My role at Shaw Systems had me manage day to day security operations, as well as review of IT operations. I worked with the business to try minimize risk and provide value to the business. I worked with Alert Logic to deploy logging and monitoring solutions. I also provided risk assessments and answered third party audits.
+My role at Shaw Systems had me manage day to day security operations, as well as review of IT operations. I worked with the business to try minimize risk and provide value to the business. I worked with Alert Logic to deploy logging and monitoring solutions. I also provided risk assessments and answered third party audits.
  
 • Security Engineering & Architecture
 • Information, Cyber Security
@@ -268,8 +268,8 @@ At Vroom I built the Information Security Program, designed and deployed numerou
 • SOC Auditing
 • Incident Response
  
- ## Walmart eCommerce 2020 - Present
- Walmart - 
+## Walmart eCommerce 2020 - Present
+Walmart - Worlds largest retailer with an online presence comparable to Amazon.
  
 • Security Architecture & Design
 • Information & Cyber Security
