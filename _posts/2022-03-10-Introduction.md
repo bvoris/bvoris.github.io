@@ -4,6 +4,7 @@ title: Introduction - Brad Voris
 categories: [content, introduction]
 ---
 
+# Introduction
 My name is Brad Voris and I am a Security Professional who is passionate about technology and scripting. I've been in IT/IS/Cybersecurity since 1999. I have have the following certifications: ISC2 CISSP ,ISACA CISM ,CSA CCSK ,Comptia Network+ ,MS MCP ,MS MTA ,VMware VCA-DCV ,Fortinet NSE1 ,Fortinet NSE2 ,Palo Alto ACE ,DHS & CISA 100W - OPSEC ,CyberArk - Trustee, MS AZ-900
 
 I started my Information Technology career in 1999. While working at BestBuy as a computer salesman I was asked by a customer to assist with finding appropriate memory for his Winbook. The support technician wasn't particularly helpful for him so I took it upon myself to find out what the speed and size memory was needed. After a few minutes of verification I was able to provide him with the memory that he needed for his laptop. He mentioned that he worked for a survey company that was looking to hire a computer technician and if I was interested I should apply. We exchanged information and a week later I went in for an interview. I met with Dean Errington who after a discussion hired me for the role. This was my first computer related role fresh out of the military with minimal support experience. I was very fortunate to have made a good impression.
