@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brad Voris
+title: My Career
 categories: [content, introduction]
 ---
 
@@ -270,6 +270,8 @@ My role at Shaw Systems had me manage day to day security operations, as well as
  
 ## Walmart eCommerce 2020 - Present
 Walmart - Worlds largest retailer with an online presence comparable to Amazon.
+ 
+ At Walmart I've helped design and secure numerous architectures for our internal and external clients. I've lead initiatives for the Information Security Architecture team to promote visibility and develop strategic business relationships. I'm a member of the CISO Advisory Board, the Enterprise Architecture Council, EDEE Steering Committee, and a mentor for the Walmart Mentoring Circle.
  
 • Security Architecture & Design
 • Information & Cyber Security
