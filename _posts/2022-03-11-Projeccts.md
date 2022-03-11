@@ -12,4 +12,6 @@ categories: [content, Projects]
  
  PowerShell script that uses obfuscated commands to download a script and run, then upload exfiltrated data from a network using native Windows tools.
  
- 
+Pi-Hole embeded in a router (not an RaspPi router but a standard OTS router)
+
+
