@@ -16,6 +16,8 @@ PSNetMon Reporting capabilities https://github.com/bvoris/PSNetMon
 
 PSNetMon conversion to Linux https://github.com/bvoris/PSNetMon
 
+PSNetMon Fix RSS Feed Issues https://github.com/bvoris/PSNetMon
+
 Pi-Hole embeded in a router (not an RaspPi router but a standard OTS router)
 
 Pi Pico Crypto Currency Miner
