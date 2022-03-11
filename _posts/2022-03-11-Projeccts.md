@@ -12,7 +12,9 @@ Embeded Linux SoC for Marvell Cavium Octeon MIPS 64bit processors
  
 PowerShell script that uses obfuscated commands to download a script and run, then upload exfiltrated data from a network using native Windows tools.
  
-PSNetMon Reporting capabilities
+PSNetMon Reporting capabilities https://github.com/bvoris/PSNetMon
+
+PSNetMon conversion to Linux https://github.com/bvoris/PSNetMon
 
 Pi-Hole embeded in a router (not an RaspPi router but a standard OTS router)
 
@@ -21,4 +23,4 @@ Pi Pico Crypto Currency Miner
 Python Weather Meter for a Pi Pico
  (measure wind speed, temperature, rain gauge, etc.)
  
-Create a new prettier rport for PowerShell Web Server Security Report https://github.com/bvoris/PoShWebserverSecurityReport
+Create a new prettier report for PowerShell Web Server Security Report https://github.com/bvoris/PoShWebserverSecurityReport
