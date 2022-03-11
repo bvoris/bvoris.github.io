@@ -14,4 +14,6 @@ categories: [content, Projects]
  
 Pi-Hole embeded in a router (not an RaspPi router but a standard OTS router)
 
+Pi Pico Crypto Currency Miner
+
 
