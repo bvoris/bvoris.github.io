@@ -3,7 +3,7 @@ layout: post
 title: Ransomware and my experience
 categories: [content, Ransomware]
 ---
-# Ransomeware
+# Ransomware
 I've been engageed with the community for some time now. One of the greatest blights facing technologists today is Ransomware. 
 
 What is ransomware?
