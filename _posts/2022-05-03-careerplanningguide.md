@@ -13,13 +13,13 @@ Introduction<BR />
 Do not edit anything<BR /><BR />
 Career Goals<BR />	
 Fill out areas in current role, short term 1-3 years, long term 3-10 years<BR />
-<IMG SRC="https://github.com/bvoris/bvoris.github.io/blob/main/assets/image/careerguidegoals.png">
+<IMG SRC="https://raw.github.com/bvoris/bvoris.github.io/blob/main/assets/image/careerguidegoals.png">
 
 <BR /><BR />
 
 Education<BR />	
 Fill out areas for will you persue further academic education, and cost (these can be estimates)<BR />
-<IMG SRC="https://github.com/bvoris/bvoris.github.io/blob/main/assets/image/careerguideeducation.png">
+<IMG SRC="https://raw.github.com/bvoris/bvoris.github.io/blob/main/assets/image/careerguideeducation.png">
 <BR /><BR />
 
 Skills<BR />	
@@ -27,7 +27,7 @@ Do not edit anything, we will go over this.<BR /><BR />
 
 Goal Outline<BR />	
 Fill out areas under What do you want to do, color code the area corresponding to what you want to do by the date you want to complete it.<BR />
-<IMG SRC="https://github.com/bvoris/bvoris.github.io/blob/main/assets/image/careerguide%20goaloutline.png">
+<IMG SRC="https://raw.github.com/bvoris/bvoris.github.io/blob/main/assets/image/careerguide%20goaloutline.png">
 <BR /><BR />
 
 Additional Resources<BR />
