@@ -1,5 +1,13 @@
 # Blog Read Me
 
+Created by: Brad Voris<BR />
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/bvoris.github.io">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/bvoris.github.io">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/bvoris.github.io/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/bvoris.github.io">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/bvoris.github.io">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/bvoris.github.io">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/bvoris.github.io">
 
 ## Connect with me at
 
