@@ -306,7 +306,20 @@ QuaVa Pharma - Hospital Pharmacy Solutions
 • M365 Security
 • Entra ID
 
-## Confidential 2025 - Present
-M365 Security
-MDCA - Microsoft Defender for Cloud Apps
-Purview - Security and Compliance
+## JP Morgan Chase 2025 - 2026
+JP Morgan Chase - US Based Bank
+
+• Security Engineering & Architecture
+• M365 Security
+• MDCA - Microsoft Defender for Cloud Apps
+• Purview - Security and Compliance
+• Security Leadership
+• MS Graph API Security
+• Threat Modeling - Security Architecture Reviews
+
+## Live Nation Entertainment 2026 -  Present
+Live Nation Entertainment - Live Nation Entertainment, Inc. is an American multinational entertainment company that was founded in 2010 following the merger of Live Nation and Ticketmaster. It continues to operate both brands as subsidiary companies, promoting and managing ticket sales for live entertainment internationally.
+
+• Security Architecture
+• Threat Modeling - Security Architecture Reviews
+• Projects / Project requirements / design
